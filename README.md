@@ -71,8 +71,7 @@
 
 <div align="center">
   
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=fahrezapratamahidayat&repo=your-featured-repo&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/fahrezapratamahidayat/your-featured-repo)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=fahrezapratamahidayat&repo=another-featured-repo&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/fahrezapratamahidayat/another-featured-repo)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=fahrezapratamahidayat&repo=your-featured-repo&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/fahrezapratamahidayat/react-event-calendar)
 
 </div>
 
