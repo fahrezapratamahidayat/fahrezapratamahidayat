@@ -68,23 +68,6 @@
 
 ---
 
-## 🎯 Current Focus
-
-<div align="center">
-  
-```javascript
-const currentFocus = {
-  learning: ["Advanced React Patterns", "Next.js 14", "TypeScript"],
-  building: ["Modern Web Applications", "Mobile Apps with React Native"],
-  exploring: ["AI Integration", "Performance Optimization", "Accessibility"],
-  goals: ["Open Source Contribution", "Tech Community Building"]
-};
-```
-
-</div>
-
----
-
 ## 📈 Activity Graph
 
 <div align="center">
