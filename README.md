@@ -11,7 +11,7 @@
 > *Crafting digital experiences with passion and precision*
 
 - 🎯 **Frontend Developer** specializing in modern web technologies
-- 🌱 Currently exploring **Advanced React Patterns** and **Next.js 14**
+- 🌱 Currently exploring **Advanced React Patterns** and **Next.js 15**
 - 💡 Love building **intuitive user interfaces** and **seamless experiences**
 - 🎨 Passionate about **clean code**, **performance optimization**, and **accessibility**
 - 📍 Based in **Indonesia** 🇮🇩
@@ -64,17 +64,6 @@
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=fahrezapratamahidayat&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
-</div>
-
----
-
-## 🌟 Featured Projects
-
-<div align="center">
-  
-[![React Event Calendar](https://github-readme-stats.vercel.app/api/pin/?username=fahrezapratamahidayat&repo=react-event-calendar&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/fahrezapratamahidayat/react-event-calendar)
-[![Todo App](https://github-readme-stats.vercel.app/api/pin/?username=fahrezapratamahidayat&repo=todo-app-nextjs&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/fahrezapratamahidayat/todo-app-nextjs)
-
 </div>
 
 ---
