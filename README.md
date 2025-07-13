@@ -33,6 +33,7 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### Tools & Technologies
@@ -71,8 +72,34 @@
 
 <div align="center">
   
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=fahrezapratamahidayat&repo=your-featured-repo&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/fahrezapratamahidayat/react-event-calendar)
+[![React Event Calendar](https://github-readme-stats.vercel.app/api/pin/?username=fahrezapratamahidayat&repo=react-event-calendar&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/fahrezapratamahidayat/react-event-calendar)
+[![Todo App](https://github-readme-stats.vercel.app/api/pin/?username=fahrezapratamahidayat&repo=todo-app-nextjs&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/fahrezapratamahidayat/todo-app-nextjs)
 
+</div>
+
+---
+
+## 🎯 Current Focus
+
+<div align="center">
+  
+```javascript
+const currentFocus = {
+  learning: ["Advanced React Patterns", "Next.js 14", "TypeScript"],
+  building: ["Modern Web Applications", "Mobile Apps with React Native"],
+  exploring: ["AI Integration", "Performance Optimization", "Accessibility"],
+  goals: ["Open Source Contribution", "Tech Community Building"]
+};
+```
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fahrezapratamahidayat&bg_color=0D1117&color=36BCF7&line=36BCF7&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
 </div>
 
 ---
@@ -83,8 +110,56 @@
   
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/fahrezapratamahidayat)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fahrezapratamahidayat)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/fahrezapratama)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahrezapratamah@gmail.com)
+
+</div>
+
+---
+
+## 🎉 Fun Facts
+
+<div align="center">
+  
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
+      <br>
+      <strong>Code</strong>
+      <br>
+      I write clean, maintainable code
+    </td>
+    <td align="center">
+      <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="50">
+      <br>
+      <strong>Learn</strong>
+      <br>
+      Always learning new technologies
+    </td>
+    <td align="center">
+      <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50">
+      <br>
+      <strong>Build</strong>
+      <br>
+      Creating amazing user experiences
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## 🏅 Achievements
+
+<div align="center">
+  
+- 🎯 **3+ years** of Frontend Development experience
+- 🚀 **10+ projects** completed successfully
+- 📚 **Continuous learner** in modern web technologies
+- 🤝 **Open source contributor** and community member
+- 🎨 **UI/UX enthusiast** with design thinking mindset
 
 </div>
 
