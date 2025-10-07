@@ -304,7 +304,7 @@
 
 ### 🐍 Contribution Snake
 ![GitHub Snake Light](https://raw.githubusercontent.com/fahrezapratamahidayat/fahrezapratamahidayat/output/snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://raw.githubusercontent.com/fahrezapratamahidayat>/fahrezapratamahidayat/output/snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/fahrezapratamahidayat/fahrezapratamahidayat/output/snake-dark.svg#gh-dark-mode-only)
 
 
 ### 🔥 Profile Views
