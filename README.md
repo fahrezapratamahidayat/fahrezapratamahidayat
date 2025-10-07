@@ -291,7 +291,7 @@
 
 <div align="center">
 
-[![Spotify](https://novatorem-fahrezapratamahidayat.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_USER_ID)
+[![Spotify](https://novatorem-fahrezapratamahidayat.vercel.app/api/spotify)](https://open.spotify.com/user/y5yymjm6484659thse7vlyhs8?si=ed4228fb342147a4)
 
 </div>
 
