@@ -291,7 +291,7 @@
 
 <div align="center">
 
-[![Spotify](https://novatorem-fahrezapratamahidayat.vercel.app/api/spotify)](https://open.spotify.com/user/y5yymjm6484659thse7vlyhs8?si=ed4228fb342147a4)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=y5yymjm6484659thse7vlyhs8&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 </div>
 
