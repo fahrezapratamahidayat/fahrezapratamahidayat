@@ -310,8 +310,4 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" height="3">
-
-**✨ "Code is poetry written in logic" ✨**
-
 </div>
