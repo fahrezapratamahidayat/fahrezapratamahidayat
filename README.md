@@ -303,7 +303,9 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 🐍 Contribution Snake
-![Snake animation](https://github.com/fahrezapratamahidayat/fahrezapratamahidayat/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake Light](https://raw.githubusercontent.com/fahrezapratamahidayat/fahrezapratamahidayat/output/snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/fahrezapratamahidayat>/fahrezapratamahidayat/output/snake-dark.svg#gh-dark-mode-only)
+
 
 ### 🔥 Profile Views
 ![](https://komarev.com/ghpvc/?username=fahrezapratamahidayat&label=Profile%20views&color=0e75b6&style=flat)
