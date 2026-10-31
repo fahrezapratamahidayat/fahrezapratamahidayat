@@ -22,12 +22,16 @@
 
 ## Projects
 
-| Project | What it does | Stack |
-|:--|:--|:--|
-| [**project-one**](#) | Modern web app with a focus on UX | Next.js · Tailwind |
-| [**project-two**](#) | Cross-platform app with real-time sync | Flutter · Firebase |
-| [**project-three**](#) | Full-stack e-commerce platform | Vue · Laravel · MySQL |
-| [**project-four**](#) | Social networking mobile app | React Native · Node · MongoDB |
+### 📅 [Event Calendar](https://github.com/fahrezapratamahidayat/react-event-calendar)
+
+An app to create, view, and organize events with an intuitive calendar interface.
+
+- Add, edit, and delete events
+- Daily, weekly, and monthly views
+- Custom event categories and colors
+- Responsive on desktop and mobile
+
+`Next.js` `Tailwind CSS` `Zustand` `date-fns`
 
 <br>
 
@@ -35,8 +39,11 @@
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=fahrezapratamahidayat&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent&title_color=6366f1&icon_color=06b6d4&text_color=8b949e" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahrezapratamahidayat&layout=compact&langs_count=6&hide_border=true&theme=transparent&title_color=6366f1&text_color=8b949e" />
+<img src="https://streak-stats.demolab.com?user=fahrezapratamahidayat&theme=transparent&hide_border=true&ring=6366f1&fire=06b6d4&currStreakLabel=6366f1&sideLabels=8b949e&currStreakNum=8b949e&sideNums=8b949e&dates=8b949e" />
+
+<br>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=fahrezapratamahidayat&bg_color=00000000&color=8b949e&line=6366f1&point=06b6d4&area=true&area_color=6366f1&hide_border=true&hide_title=true" />
 
 </div>
 
