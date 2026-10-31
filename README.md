@@ -1,84 +1,56 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:6366f1,100:06b6d4&text=Fahreza%20Pratama&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Full%20Stack%20Developer%20%C2%B7%20Indonesia&descAlignY=58&descSize=16" width="100%" />
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=26&duration=4000&pause=1500&color=B91C1C&center=true&vCenter=true&width=620&lines=FAHREZA+PRATAMA+HIDAYAT;full+stack+developer+%E2%80%94+indonesia;code+in+the+dark%2C+ship+in+the+light" alt="Fahreza Pratama Hidayat" />
+**I build fast, clean web & mobile apps — from database to pixel.**
 
-<sub>— ❦ —</sub>
+<br>
+
+<a href="https://github.com/fahrezapratamahidayat"><img src="https://skillicons.dev/icons?i=ts,react,nextjs,vue,tailwind,flutter,nodejs,laravel,python,mysql,postgres,supabase,docker,figma&theme=dark&perline=14" /></a>
 
 </div>
 
 <br>
 
-### ❧ whoami
+## About
 
-```
-> whoami
-fahreza — full stack developer, indonesia
-
-> cat focus.txt
-web & mobile · clean code · quiet, fast interfaces
-
-> cat currently.txt
-next.js 15 · advanced react patterns · flutter
-```
+- Building with **Next.js**, **React**, and **Flutter**
+- Currently exploring **Next.js 15** and advanced React patterns
+- Care a lot about **performance**, **accessibility**, and code that's easy to read
 
 <br>
 
-### ❧ arsenal
+## Projects
 
-```
-languages   typescript · javascript · python · php · dart
-frontend    react · next.js · vue · nuxt · tailwind
-mobile      flutter · react native · expo
-backend     node · express · laravel · fastapi
-data        mysql · postgresql · mongodb · supabase · firebase
-tools       git · docker · linux · vercel · figma
-```
+| Project | What it does | Stack |
+|:--|:--|:--|
+| [**project-one**](#) | Modern web app with a focus on UX | Next.js · Tailwind |
+| [**project-two**](#) | Cross-platform app with real-time sync | Flutter · Firebase |
+| [**project-three**](#) | Full-stack e-commerce platform | Vue · Laravel · MySQL |
+| [**project-four**](#) | Social networking mobile app | React Native · Node · MongoDB |
 
 <br>
 
-### ❧ selected works
-
-| | |
-|:--|:--|
-| **project-one** | modern web app with a focus on UX — `next.js` `tailwind` · [repo](#) · [live](#) |
-| **project-two** | cross-platform mobile app with real-time features — `flutter` `firebase` · [repo](#) |
-| **project-three** | full-stack e-commerce platform — `vue` `laravel` `mysql` · [repo](#) |
-| **project-four** | social networking mobile app — `react native` `node` `mongodb` · [repo](#) |
-
-<br>
-
-### ❧ traces
+## Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=fahrezapratamahidayat&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&hide_title=true&bg_color=0a0a0a&text_color=a3a3a3&icon_color=b91c1c&title_color=b91c1c&ring_color=b91c1c" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahrezapratamahidayat&layout=compact&langs_count=6&hide_border=true&hide_title=true&bg_color=0a0a0a&text_color=a3a3a3" />
-
-<br><br>
-
-![snake](https://raw.githubusercontent.com/fahrezapratamahidayat/fahrezapratamahidayat/output/snake-dark.svg#gh-dark-mode-only)
-![snake](https://raw.githubusercontent.com/fahrezapratamahidayat/fahrezapratamahidayat/output/snake.svg#gh-light-mode-only)
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=fahrezapratamahidayat&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent&title_color=6366f1&icon_color=06b6d4&text_color=8b949e" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahrezapratamahidayat&layout=compact&langs_count=6&hide_border=true&theme=transparent&title_color=6366f1&text_color=8b949e" />
 
 </div>
 
 <br>
 
-### ❧ correspondence
+## Connect
 
 <div align="center">
 
-[github](https://github.com/fahrezapratamahidayat) &nbsp;·&nbsp;
-[linkedin](https://linkedin.com/in/fahrezapratamahidayat) &nbsp;·&nbsp;
-[dev.to](https://dev.to/fahrezapratamahidayat) &nbsp;·&nbsp;
-[twitter](https://twitter.com/fahrezapratama) &nbsp;·&nbsp;
-[email](mailto:fahrezapratamah@gmail.com)
-
-<br>
-
-<sub>† &nbsp; git commit -m "still alive" &nbsp; †</sub>
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=fahrezapratamahidayat&label=visitors&color=0a0a0a&style=flat-square" />
+[LinkedIn](https://linkedin.com/in/fahrezapratamahidayat) &nbsp;•&nbsp;
+[Dev.to](https://dev.to/fahrezapratamahidayat) &nbsp;•&nbsp;
+[Twitter](https://twitter.com/fahrezapratama) &nbsp;•&nbsp;
+[Email](mailto:fahrezapratamah@gmail.com)
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:06b6d4,100:6366f1&section=footer" width="100%" />
