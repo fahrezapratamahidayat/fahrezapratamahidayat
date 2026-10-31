@@ -28,8 +28,6 @@
 
 <br>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=fahrezapratamahidayat&bg_color=00000000&color=8b949e&line=6366f1&point=06b6d4&area=true&area_color=6366f1&hide_border=true&hide_title=true" />
-
 </div>
 
 <br>
