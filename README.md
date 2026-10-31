@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:6366f1,100:06b6d4&text=Fahreza%20Pratama&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Full%20Stack%20Developer%20%C2%B7%20Indonesia&descAlignY=58&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:6366f1,100:06b6d4&text=Fahreza%20Pratama%20Hidayat&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Full%20Stack%20Developer%20%C2%B7%20Indonesia&descAlignY=58&descSize=16" width="100%" />
 
 <div align="center">
 
@@ -18,6 +18,8 @@
 - Currently exploring **Next.js 15** and advanced React patterns
 - Care a lot about **performance**, **accessibility**, and code that's easy to read
 
+<br>
+
 ## Stats
 
 <div align="center">
@@ -36,10 +38,11 @@
 
 <div align="center">
 
-[LinkedIn](https://linkedin.com/in/fahrezapratamahidayat) &nbsp;•&nbsp;
-[Dev.to](https://dev.to/fahrezapratamahidayat) &nbsp;•&nbsp;
-[Twitter](https://twitter.com/fahrezapratama) &nbsp;•&nbsp;
-[Email](mailto:fahrezapratamah@gmail.com)
+<a href="https://linkedin.com/in/fahrezapratamahidayat"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" /></a>&nbsp;&nbsp;
+<a href="https://dev.to/fahrezapratamahidayat"><img src="https://skillicons.dev/icons?i=devto" height="40" alt="Dev.to" /></a>&nbsp;&nbsp;
+<a href="https://twitter.com/fahrezapratama"><img src="https://skillicons.dev/icons?i=twitter" height="40" alt="Twitter" /></a>&nbsp;&nbsp;
+<a href="mailto:fahrezapratamah@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email" /></a>&nbsp;&nbsp;
+<a href="https://github.com/fahrezapratamahidayat"><img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" /></a>
 
 </div>
 
