@@ -18,23 +18,6 @@
 - Currently exploring **Next.js 15** and advanced React patterns
 - Care a lot about **performance**, **accessibility**, and code that's easy to read
 
-<br>
-
-## Projects
-
-### 📅 [Event Calendar](https://github.com/fahrezapratamahidayat/react-event-calendar)
-
-An app to create, view, and organize events with an intuitive calendar interface.
-
-- Add, edit, and delete events
-- Daily, weekly, and monthly views
-- Custom event categories and colors
-- Responsive on desktop and mobile
-
-`Next.js` `Tailwind CSS` `Zustand` `date-fns`
-
-<br>
-
 ## Stats
 
 <div align="center">
